@@ -6,14 +6,15 @@ while True:
     if command=="start":
         if started:
             print("Car already started")
-        else started=True
+        else:
+            started=True
             print("Car Started...")
     elif command=="stop":
-        if not started
+        if not started:
             print ("Car already stopped")
-        else
-        print("Car Stopped")
-        started=False
+        else:
+            print("Car Stopped")
+            started=False
     elif command=="help":
         print("""
 Start -  To Start the car
