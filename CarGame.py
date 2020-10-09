@@ -1,4 +1,4 @@
-#CAR GAME
+help#CAR GAME
 command=""
 started=False
 while True:
@@ -16,12 +16,11 @@ while True:
             print("Car Stopped")
             started=False
     elif command=="help":
-        print("""
-Start -  To Start the car
+        print(
+"""Start -  To Start the car
 Stop -To Stop the car
 Quit - To Quit""")
     elif command == "quit":
         break
-
 else:
     print("Sorry! I don't understand that")
