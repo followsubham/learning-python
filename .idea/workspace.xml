@@ -24,37 +24,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\learning-python\PP" />
       <recent name="D:\GitHub\learning-python\kaggle\exercise 3" />
       <recent name="D:\GitHub\learning-python\kaggle\exercise 2" />
       <recent name="D:\GitHub\learning-python\kaggle\exercise 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2. PreparedForWeather">
-    <configuration name="1. RoundNumberTwoPlaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\GitHub\learning-python\kaggle\exercise 2\1. RoundNumberTwoPlaces.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PP2-OddOrEven">
     <configuration name="1. Sign" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +78,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2. TotalCandiesTotalFriends" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaggle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\GitHub\learning-python\kaggle\exercise 2\2. TotalCandiesTotalFriends.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="3. CompareAboluteValues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,13 +99,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="PP1-Ageto100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\learning-python\PP\PP1-Ageto100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PP2-OddOrEven" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\learning-python\PP\PP2-OddOrEven.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.PP2-OddOrEven" />
+        <item itemvalue="Python.PP1-Ageto100" />
         <item itemvalue="Python.2. PreparedForWeather" />
         <item itemvalue="Python.1. Sign" />
         <item itemvalue="Python.3. CompareAboluteValues" />
-        <item itemvalue="Python.2. TotalCandiesTotalFriends" />
-        <item itemvalue="Python.1. RoundNumberTwoPlaces" />
       </list>
     </recent_temporary>
   </component>
@@ -161,25 +163,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1180" height="176" key="GridCell.Tab.0.bottom" timestamp="1602403475697">
+    <state width="1180" height="176" key="GridCell.Tab.0.bottom" timestamp="1602600926813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602403475697" />
-    <state width="1180" height="176" key="GridCell.Tab.0.center" timestamp="1602403475697">
+    <state width="1180" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602600926813" />
+    <state width="1180" height="176" key="GridCell.Tab.0.center" timestamp="1602600926813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602403475697" />
-    <state width="1180" height="176" key="GridCell.Tab.0.left" timestamp="1602403475697">
+    <state width="1180" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602600926813" />
+    <state width="1180" height="176" key="GridCell.Tab.0.left" timestamp="1602600926813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602403475697" />
-    <state width="1180" height="176" key="GridCell.Tab.0.right" timestamp="1602403475697">
+    <state width="1180" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602600926813" />
+    <state width="1180" height="176" key="GridCell.Tab.0.right" timestamp="1602600926813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602403475697" />
+    <state width="1180" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602600926813" />
     <state x="248" y="9" key="SettingsEditor" timestamp="1602235878044">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="248" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602235878044" />
+    <state x="410" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602600546714">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602600546714" />
   </component>
 </project>
