@@ -42,28 +42,7 @@
       <recent name="D:\GitHub\learning-python\kaggle\exercise 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.PP23-GuessingGame2">
-    <configuration name="PP19-ElementSearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learning-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP/PP19-ElementSearch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.PP28-MaxOfThree">
     <configuration name="PP20-WriteToAFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PP23-GuessingGame2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PP25-GuessingGame2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +118,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP/PP23-GuessingGame2.py" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\learning-python\PP\PP25-GuessingGame2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PP28-MaxOfThree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learning-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PP/PP28-MaxOfThree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PP23-GuessingGame2" />
+        <item itemvalue="Python.PP28-MaxOfThree" />
+        <item itemvalue="Python.PP25-GuessingGame2" />
         <item itemvalue="Python.PP22-FileOverlap" />
         <item itemvalue="Python.PP21-ReadFromaFile" />
         <item itemvalue="Python.PP20-WriteToAFile" />
-        <item itemvalue="Python.PP19-ElementSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -178,22 +178,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="527" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603879095403" />
-    <state width="1180" height="151" key="GridCell.Tab.0.bottom" timestamp="1603967642395">
+    <state width="1180" height="151" key="GridCell.Tab.0.bottom" timestamp="1604145017121">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603967642395" />
-    <state width="1180" height="151" key="GridCell.Tab.0.center" timestamp="1603967642395">
+    <state width="1180" height="151" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604145017121" />
+    <state width="1180" height="151" key="GridCell.Tab.0.center" timestamp="1604145017121">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603967642395" />
-    <state width="1180" height="151" key="GridCell.Tab.0.left" timestamp="1603967642395">
+    <state width="1180" height="151" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604145017121" />
+    <state width="1180" height="151" key="GridCell.Tab.0.left" timestamp="1604145017121">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603967642395" />
-    <state width="1180" height="151" key="GridCell.Tab.0.right" timestamp="1603967642395">
+    <state width="1180" height="151" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604145017121" />
+    <state width="1180" height="151" key="GridCell.Tab.0.right" timestamp="1604145017121">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603967642395" />
+    <state width="1180" height="151" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604145017121" />
     <state x="248" y="9" key="SettingsEditor" timestamp="1603949150388">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
